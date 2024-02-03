@@ -1,2 +1,6 @@
 Flask
 Gunicorn
+grequests==0.7.0
+requests==2.31.0
+beautifulsoup4==4.11.2
+natsort==8.2.0
